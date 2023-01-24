@@ -1,2 +1,2 @@
 # Insertion-Sort
-Algoritmo de odenação
+Algoritmo de ordenação
