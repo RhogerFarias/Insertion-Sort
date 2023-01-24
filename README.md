@@ -1,2 +1,2 @@
-# Insertion-Sort
+# InsertionSort-Dinamico
 Algoritmo de ordenação
